@@ -1,1 +1,2 @@
-# NNPTUD
+Ngô Quốc Trọng
+MSSV: 2180608144 
